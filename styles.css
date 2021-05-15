@@ -24,11 +24,12 @@ main{
     max-width: 600px;
 }
 textarea{
-    box-sizing: border-box;
+    box-sizing: border-box; 
     width: 100%;
     margin-top: 2rem;
     min-height: 20vh;
     font-family: inherit;
+    padding: 0rem;
 }
 #translate{
     background-color: var(--primary-color);
