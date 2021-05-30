@@ -5,9 +5,8 @@ var translateinput = document.querySelector("#txtinput");
 
 var translateoutput = document.querySelector("#translate-box");
 
-//var url = "https://api.funtranslations.com/translate/minion.json"
+var url = "https://api.funtranslations.com/translate/minion.json"
 //var url = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
-var url = "https://api.funtranslations.com/translate/pirate.json"
 
 function clickEventHandler()
 {
